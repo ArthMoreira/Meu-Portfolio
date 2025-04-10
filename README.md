@@ -1,4 +1,4 @@
-# 💼 Portfólio Pessoal - Arth Moreira
+# 💼 Portfólio Pessoal - Arthur Moreira
 
 Este repositório contém meu portfólio pessoal, desenvolvido com o objetivo de apresentar minhas habilidades, experiência e projetos como desenvolvedor front-end. O site foi construído com foco em responsividade, desempenho e design limpo, visando uma navegação fluida tanto em dispositivos móveis quanto em desktop.
 

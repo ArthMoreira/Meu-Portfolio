@@ -18,8 +18,8 @@ Este repositório contém meu portfólio pessoal, desenvolvido com o objetivo de
 
 ## 🌐 Acesso ao Portfólio
 
-O portfólio está disponível online no GitHub Pages:  
-🔗 [Acessar Portfólio](https://arthmoreira.github.io/Meu-Portfolio)
+O portfólio está disponível:  
+🔗 [Acessar Portfólio](https://meu-portfolio-eight-sand.vercel.app/)
 
 ## 📁 Organização do Repositório
 
